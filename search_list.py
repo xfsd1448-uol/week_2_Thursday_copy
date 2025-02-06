@@ -14,3 +14,4 @@ def search_ordered_list(lst, target):
             high = mid + 1 
     return False
             
+print(2)
